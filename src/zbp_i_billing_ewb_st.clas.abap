@@ -1,0 +1,9 @@
+CLASS zbp_i_billing_ewb_st DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_billing_ewb_st.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_I_BILLING_EWB_ST IMPLEMENTATION.
+ENDCLASS.
